@@ -4,10 +4,10 @@ This repository contains curated examples of strong, efficient, and well-structu
 
 ## Folder Structure
 - `/python` – Data science, automation, and bioinformatics hacks using `pandas`, `NumPy`, `requests`, `matplotlib`, and more
-- `/r` – Statistical modeling, ggplot visualizations, Seurat pipelines, and rapid biological data analyses
-- `/bash` – Minimalist and powerful shell scripts for HPC clusters, file wrangling, and pipeline execution
-- `/java` – Object-oriented micro-projects: parsers, data structures, backend logic, and algorithm demos
-- `/notebooks` – Interactive explorations and data narratives in Jupyter (Python) or RMarkdown
+- `/R` – Statistical modeling, ggplot visualizations, Seurat pipelines, and rapid biological data analyses
+- `/Bash` – Minimalist and powerful shell scripts for HPC clusters, file wrangling, and pipeline execution
+- `/Java` – Object-oriented micro-projects: parsers, data structures, backend logic, and algorithm demos
+- `/Notebooks` – Interactive explorations and data narratives in Jupyter (Python) or RMarkdown
 
 ## Highlights
 
