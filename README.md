@@ -1,4 +1,4 @@
-#Coding Strength Examples
+## Coding Strength Examples
 
 This repository contains curated examples of strong, efficient, and well-structured code across multiple programming languages, fun codes and bioinformatics use cases. Each folder demonstrates problem-solving skills, code clarity, and real-world utility, aimed at showcasing technical depth across different domains.
 
@@ -16,7 +16,7 @@ This repository contains curated examples of strong, efficient, and well-structu
 - Each script is standalone, modular, and documented
 - Wherever possible, includes both a basic and optimized version of the same task
 
-## 🧬 Why This Repo?
+## Why This Repo?
 
 As a bioinformatics scientist working at the intersection of large-scale genomics and software development, I use this space to:
 - Archive reusable code
