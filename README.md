@@ -1,6 +1,6 @@
 ## Coding Strength Examples
 
-This repository contains curated examples of strong, efficient, and well-structured code across multiple programming languages, fun codes and bioinformatics use cases. Each folder demonstrates problem-solving skills, code clarity, and real-world utility, aimed at showcasing technical depth across different domains.
+This repository contains a curated set of tools and scripts I developed for practical use in bioinformatics, data analysis, and systems-level automation. Built using Python, Bash, R, Java, and Jupyter environments, these resources demonstrate efficient solutions to real-world challenges in biological data workflows.
 
 ## Folder Structure
 - `/python` – Data science, automation, and bioinformatics hacks using `pandas`, `NumPy`, `requests`, `matplotlib`, and more
