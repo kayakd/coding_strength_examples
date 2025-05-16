@@ -2,12 +2,24 @@
 
 This repository contains a curated set of tools and scripts I developed for practical use in bioinformatics, data analysis, and systems-level automation. Built using Python, Bash, R, Java, and Jupyter environments, these resources demonstrate efficient solutions to real-world challenges in biological data workflows.
 
+## Hi-C Multi-Omics Visualization Tool
+
+A browser-based interactive tool for visualizing Hi-C data alongside other omics datasets.
+
+Access it here:  
+[https://kayakd.github.io/kdk_bioinformatics_tools/hic_viz_tool/viz.htm](https://kayakd.github.io/kdk_bioinformatics_tools/hic_viz_tool/viz.htm)
+
+Tool location in repo:  
+[`/hic_viz_tool`](hic_viz_tool/)
+
 ## Folder Structure
+
 - `/python` – Data science, automation, and bioinformatics hacks using `pandas`, `NumPy`, `requests`, `matplotlib`, and more
 - `/R` – Statistical modeling, ggplot visualizations, Seurat pipelines, and rapid biological data analyses
 - `/Bash` – Minimalist and powerful shell scripts for HPC clusters, file wrangling, and pipeline execution
 - `/Java` – Object-oriented micro-projects: parsers, data structures, backend logic, and algorithm demos
 - `/Notebooks` – Interactive explorations and data narratives in Jupyter (Python) or RMarkdown
+- `/hic_viz_tool` – Static visualization interface for Hi-C and multi-omics integration
 
 ## Highlights
 
@@ -31,5 +43,5 @@ MIT License — feel free to fork, adapt, or reuse with attribution.
 
 Koray Doğan Kaya  
 [koraydogankaya@gmail.com](mailto:koraydogankaya@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/koray-do%C4%9Fan-kaya-phd-7719a233/)
+[LinkedIn](https://www.linkedin.com/in/koray-dogan-kaya-phd-7719a233/)
 Bioinformatics Scientist | NIH Contributor | HPC Expert
