@@ -1,6 +1,11 @@
 ## Coding Strength Examples
 
 This repository contains a curated set of tools and scripts I developed for practical use in bioinformatics, data analysis, and systems-level automation. Built using Python, Bash, R, Java, and Jupyter environments, these resources demonstrate efficient solutions to real-world challenges in biological data workflows.
+## download_gse
+
+[Download FASTQ files from GEO (Bash)](https://github.com/kayakd/kdk_bioinformatics_tools/tree/main/Bash/download_gse)  
+  A Bash script to automatically retrieve FASTQ files using a GEO Series accession (GSE ID).  
+  It fetches the SRA metadata, extracts SRR run IDs, and downloads FASTQs via `prefetch` and `fasterq-dump`.
 
 ## Hi-C Multi-Omics Visualization Tool
 
