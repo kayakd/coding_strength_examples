@@ -1,4 +1,4 @@
-## Coding Strength Examples
+## My Projects at a glance
 
 This repository contains a curated set of tools and scripts I developed for practical use in bioinformatics, data analysis, and systems-level automation. Built using Python, Bash, R, Java, and Jupyter environments, these resources demonstrate efficient solutions to real-world challenges in biological data workflows.
 ## download_gse
