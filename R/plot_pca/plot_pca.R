@@ -8,11 +8,11 @@
 #' @param x            A numeric matrix of log-transformed expression values (genes × samples).
 #' @param sample_meta  A data frame containing sample metadata. Row names must match colnames(x).
 #' @param group_col    The column name in sample_meta to color by (default: "Group").
-#' @param title        Plot title (default: "PCA of log2(CPM + 1) — Filtered Genes").
+#' @param title        Plot title (default: "").
 #'
 #' @return A ggplot2 object visualizing the first two principal components.
 #'
-plot_pca <- function(x, sample_meta, group_col = "Group", title = "PCA of log2(CPM + 1) — Filtered Genes") {
+plot_pca <- function(x, sample_meta, group_col = "Group", title = "") {
   # Dependencies
   if (!require(ggplot2, quietly = TRUE)) stop("Please install 'ggplot2'.")
   if (!require(ggrepel, quietly = TRUE)) stop("Please install 'ggrepel'.")
